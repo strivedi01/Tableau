@@ -9,8 +9,7 @@ In the Tableau visualization, I have used citibike data from Feb - 2019, April-2
 
 In total, I have created five visualizations and four different maps. I have compiled these into three different dashboards, shown below:
 
-\![Alt text](/relative/path/to/capture.jpg?raw=true "Optional Title")
-
+![](Images/gender.JPG)
 
 
 
