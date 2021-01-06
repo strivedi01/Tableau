@@ -7,7 +7,7 @@ Submitted Tableau Public link above.
 
 In the Tableau visualization, I have used citibike data from Feb - 2019, April-2019, August-2019, April- 2020.
 
-In total, I have created five visualizations and four different maps. I have compiled these into three different dashboards, shown below:
+In total, I have created seven visualizations and two different maps. I have compiled these into three different dashboards, shown below:
 
 This one analyses the phenomonen of gender across a number of different metadate attributes like usertype, number of records, and distribution by age group:
 
@@ -17,6 +17,9 @@ Next, to see the impact of seasonal weather on ridership I analysed the number o
 
 ![](Images/season.JPG)
 
+A similar strategy can be used to analyze the impact of Covid-19 and government-enforced lockdowns on overall ridership. To do this, I analyzed the number of active riders by gender but used data from April 2019 and April 2020 (where lockdown was the most feverent). As can be seen, the proportions among gender remained relatively constant, but the number of riders in April 2020 is about a third of the number of riders in April 2019. 
+
+![](Images/covid.JPG)
 
 
 
